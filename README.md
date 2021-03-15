@@ -1,5 +1,3 @@
-# Screenshot of output
-
-![screenshot](weather_app.PNG)
+Toronto Weather Forecast Application 
 
 
