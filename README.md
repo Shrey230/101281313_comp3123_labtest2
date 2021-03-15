@@ -1,3 +1,3 @@
-Toronto Weather Forecast Application 
+Toronto Weather Forecast Application made using React framework
 
 
