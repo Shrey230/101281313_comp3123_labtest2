@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const URL = 'http://api.openweathermap.org/data/2.5/weather?q=Toronto';
-const API_Key = 'f8a03ba706af0ddc9faab348dcf7356b'
+const API_Key = 'dabd43091243ee5e79e0ebb05c32db35'
 
 class FetchWeather{
 
