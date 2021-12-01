@@ -1,0 +1,87 @@
+.wrapper{
+    
+    margin-right: auto;
+    margin-left: auto;
+    height: 100%;
+    max-width: 960px;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.main {
+    height: 75vh;
+    box-shadow: 0px 13px 40px -13px rgba(0,0,0,0.75);
+    width: 33%;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 3px;
+    overflow: hidden; 
+}
+
+.header {
+    text-align: center;
+    border: transparent;
+    background-color: #4a3aa5
+}
+  
+.header_title {
+      font-weight: 600;
+      color: white;
+      font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+.content {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    padding: 1rem 3rem;
+    background-image: url("https://images.unsplash.com/photo-1557277770-baf0ca74f908?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80");
+  
+  }
+
+  .toronto{
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+  }
+
+  .container{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column; 
+    padding-top: 20;
+  }
+
+  .icon{
+    height: 120px;
+    width: 120px;
+  }
+
+  .description{
+      font-size: 25px;
+      color: white;
+  }
+
+  .date{
+      font-size: 20px;
+      color: white;
+  }
+
+  .temp{
+      font-size: 45px;
+      color: white;
+  }
+
+  .details{
+      font-size: 18px;
+      font-weight: bold;
+      
+  }
+
